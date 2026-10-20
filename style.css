@@ -1,0 +1,28 @@
+h2{
+    color: #ff3300;
+}
+
+.container {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue{
+    color:#0000FF
+}
+
+a{
+    color:#FF00FF;
+}
+
+a:hover{
+    color:#ff3300;
+    font-size: 20px;
+}
+
+.img{
+    width: 300px;
+    border-radius:20px;
+}
