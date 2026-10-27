@@ -2,12 +2,6 @@ h2{
     color: #ff3300;
 }
 
-.container {
-  display: flex;
-  gap: 60px;
-  justify-content: center;
-  align-items: center;
-}
 
 .blue{
     color:#0000FF
